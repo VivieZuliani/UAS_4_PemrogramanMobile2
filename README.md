@@ -448,7 +448,7 @@ class _SignUpState extends State<SignUp> {
 ```
 
 ### Kumpulan file yang di buat untuk Program Aplikasi Note
-> Kumpulan file yang dibuat untuk Aplikasi Note ini dapat dilihat di sisi kiri. Untuk file-filenya, yaitu `login.dart`, `signup.dart`, `note_model.dart`, `users.dart`, 'sqlite.dart`, `create_note.dart`, 'note.dart` dan 'main.dart`. File-file ini tedapat pada folder `../lib/..` yang kemudian di kelompokkan lagi ke dalam folder baru secara terpisah
+> Kumpulan file yang dibuat untuk Aplikasi Note ini dapat dilihat di sisi kiri. Untuk file-filenya, yaitu `login.dart`, `signup.dart`, `note_model.dart`, `users.dart`, `sqlite.dart`, `create_note.dart`, `notes.dart` dan `main.dart`. File-file ini tedapat pada folder `../lib/..` yang kemudian di kelompokkan lagi ke dalam folder baru secara terpisah
 
 ![Screenshot 2024-07-09 113820](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/d497e9d7-fc91-4ec1-ae57-198aab80a605)
 
