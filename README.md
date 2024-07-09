@@ -13,6 +13,7 @@
 3. Code untuk signup.dart
 4. Kumpulan file yang di buat untuk Program Aplikasi Note
 5. Outputnya
+6. Presentasi via Youtube 
 
 # PROJECT FLUTTER [Aplikasi Note]
 > main.dart
@@ -458,6 +459,11 @@ class _SignUpState extends State<SignUp> {
 ![Screenshot 2024-07-09 112016](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/97de8be2-cecb-4fb5-888c-0a8124f1210b)
 
 ![Screenshot 2024-07-09 112034](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/543f7518-55f0-4062-9757-56f2be8b7cda)
+
+
+### Presentasi via Youtube 
+
+https://youtu.be/Z4wlUMUB6zE
 
 
 
