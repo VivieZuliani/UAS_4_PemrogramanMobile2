@@ -1,10 +1,18 @@
 # UAS_4_PemrogramanMobile2
 
-#### Nama : Vivie Zuliani Erikasari
+###### Nama : Vivie Zuliani Erikasari
 
-#### NIM : 312210475
+###### NIM : 312210475
 
-#### Kelas : TI.22.A5
+###### Kelas : TI.22.A5
+
+# Daftar Isi
+
+1. Code untuk main.dart
+2. Code untuk login.dart
+3. Code untuk signup.dart
+4. Kumpulan file yang di buat untuk Program Aplikasi Note
+5. Outputnya
 
 # PROJECT FLUTTER [Aplikasi Note]
 > main.dart
@@ -438,12 +446,12 @@ class _SignUpState extends State<SignUp> {
 
 ```
 
-> File yang di buat
+### Kumpulan file yang di buat untuk Program Aplikasi Note
 
 ![Screenshot 2024-07-09 113820](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/d497e9d7-fc91-4ec1-ae57-198aab80a605)
 
 
-> Outputnya :
+### Outputnya :
 
 ![Screenshot 2024-07-09 111956](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/b266a692-b469-437e-9f90-35ad9a161267)
 
