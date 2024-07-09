@@ -232,7 +232,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
 ```
 
-signup.dart
+> signup.dart
 ```
 import 'package:flutter/material.dart';
 import 'package:sqlite_flutter_crud/Authtentication/login.dart';
