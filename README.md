@@ -456,8 +456,13 @@ class _SignUpState extends State<SignUp> {
 
 ![Screenshot 2024-07-09 111956](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/b266a692-b469-437e-9f90-35ad9a161267)
 
+> Untuk menambahkan note baru, klik tombol `+` pada bagian kanan bawah, nantinya pengguna akan di arahkan ke halaman pembuatan note baru
+
+> Untuk pembaruan note, bisa dilakukan dengan `mengklik note yang sudah di buat`, nantinya pengguna bisa langsung memperbarui isi maupun judul note tersebut
+
 ![Screenshot 2024-07-09 112016](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/97de8be2-cecb-4fb5-888c-0a8124f1210b)
 
+> Halaman pencarian atau `search`, yaitu bagian untuk mencari jenis note yang di butuhkan jika pengguna membuat banyak note. Search ini memudahkan pengguna agar tidak mencari satu per satu note yang di butuhkan
 ![Screenshot 2024-07-09 112034](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/543f7518-55f0-4062-9757-56f2be8b7cda)
 
 
